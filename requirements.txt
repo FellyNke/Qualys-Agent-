@@ -1,0 +1,3 @@
+livekit-agents[anthropic,silero]~=1.0
+pdfplumber
+livekit-plugins-deepgram
